@@ -62,9 +62,6 @@ $(document).ready(function () {
         '<a href="#" class="color" data-color="yellow.css" style="background-color:#ffb100"></a>' +
         '<a href="#" class="color" data-color="orange.css" style="background-color:#ff5a14"></a>' +
         '<a href="#" class="color" data-color="turquoise.css" style="background-color:#00b4d9"></a>' +
-        '<a href="#" class="color" data-color="yellow.css" style="background-color:#FF6347"></a>' +
-        '<a href="#" class="color" data-color="orange.css" style="background-color:#FC4D4E"></a>' +
-        '<a href="#" class="color" data-color="turquoise.css" style="background-color:#2F91D7"></a>' +
         '<a href="#" class="color" data-color="pink.css" style="background-color:#fb1bc1"></a>' +
         '<a href="#" class="color" data-color="purple.css" style="background-color:#BF55EC"></a>' +
         '<hr />' +
