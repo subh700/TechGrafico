@@ -64,6 +64,18 @@ $(document).ready(function () {
         '<a href="#" class="color" data-color="turquoise.css" style="background-color:#00b4d9"></a>' +
         '<a href="#" class="color" data-color="pink.css" style="background-color:#fb1bc1"></a>' +
         '<a href="#" class="color" data-color="purple.css" style="background-color:#BF55EC"></a>' +
+        '<a href="#" class="color" data-color="1.css" style="background-color:#FF6347"></a>' +
+        '<a href="#" class="color" data-color="2.css" style="background-color:#388E3C"></a>' +
+        '<a href="#" class="color" data-color="3.css" style="background-color:#FFE07A"></a>' +
+        '<a href="#" class="color" data-color="4.css" style="background-color:#2A82C1"></a>' +
+        '<a href="#" class="color" data-color="5.css" style="background-color:#F18F0E"></a>' +
+        '<a href="#" class="color" data-color="6.css" style="background-color:#EC5155"></a>' +
+        '<a href="#" class="color" data-color="7.css" style="background-color:#880015"></a>' +
+        '<a href="#" class="color" data-color="8.css" style="background-color:#4CD763"></a>' +
+        '<a href="#" class="color" data-color="9.css" style="background-color:#E1004C"></a>' +
+        '<a href="#" class="color" data-color="10.css" style="background-color:#FF7101"></a>' +
+        '<a href="#" class="color" data-color="11.css" style="background-color:#4700A6"></a>' +
+        '<a href="#" class="color" data-color="12.css" style="background-color:#0AB396"></a>' +
         '<hr />' +
         '<a href="#" class="reset btn btn-sm btn-info p-l-30 p-r-30">Reset</a>' +
         '</div>';
