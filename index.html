@@ -56,6 +56,30 @@
 
     <!-- Font icons -->
     <link rel="stylesheet" href="icon-fonts/fontawesome-5.0.6/css/fontawesome-all.min.css" />
+    <style>
+        #fiverr {
+            font-size: larger;
+            font-weight: 900;
+            color: turquoise;
+            text-align: center;
+        }
+        
+        .home-content {
+            display: grid;
+            grid-template-columns: 8fr 4fr;
+        }
+        
+        .off {
+            display: grid;
+            grid-template-columns: 8fr 4fr;
+        }
+        
+        .off h1 {
+            font-size: large;
+            font-weight: 700;
+            color: tomato;
+        }
+    </style>
 
 </head>
 
@@ -258,6 +282,41 @@
                     </a>
                 </div>
             </section>
+
+            <!-- fiverr section-->
+            <section id="fiverr">
+                <h1 class="hero-title">Our Services & Offers</h1>
+                <div class="home-content">
+                    <div class="off">
+                        <div>
+                            <h1 class="hero-title"><span>Offers</span></h1>
+                        </div>
+                        <div><iframe src="https://www.fiverr.com/anywhere/anywhere_widget/5ff6e91fda9a14000c12b03d" width="180" height="55" frameBorder="0" scrolling="no"></iframe></div>
+                    </div>
+
+                    <div>
+                        <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+                        <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+                            <a itemprop='url' href=https://www.fiverr.com/techgrafico rel="nofollow" target="_blank" style='display: inline-block;'>
+                                <div class='fiverr-seller-content' id='fiverr-seller-widget-content-1c28d531-6d13-4858-a631-bd3750535d70' itemprop='contentURL' style='display: none;'></div>
+                                <div id='fiverr-widget-seller-data' style='display: none;'>
+                                    <div itemprop='name'>techgrafico</div>
+                                    <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+                                    <div itemprop='jobtitle'>Seller</div>
+                                    <div itemprop='description'>Hi! My name is Subham Kumar. 3+ Years experience in Web Designing and Development. Worked with small businesses and large established brands worldwide. Providing professional wordpress and eCommerce services exclusively
+                                        on Fiverr from last 1+ yrs. Hire me for Professional services.</div>
+                                </div>
+                            </a>
+                        </div>
+
+                        <script id='fiverr-seller-widget-script-1c28d531-6d13-4858-a631-bd3750535d70' src='https://widgets.fiverr.com/api/v1/seller/techgrafico?widget_id=1c28d531-6d13-4858-a631-bd3750535d70' data-config='{"category_name":"Programming \u0026 Tech"}' async='true'
+                            defer='true'></script>
+
+                    </div>
+                </div>
+            </section>
+
 
             <hr class="top_90 bottom_90 col-md-8">
 
